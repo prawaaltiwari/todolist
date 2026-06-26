@@ -44,4 +44,4 @@ python todo.py
 
 ## Author
 
-Agraj Tiwari
+Prawaal Tiwari
